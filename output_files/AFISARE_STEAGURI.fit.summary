@@ -1,0 +1,18 @@
+Fitter Status : Successful - Wed Jul 24 13:30:02 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : AFISARE_STEAGURI
+Top-level Entity Name : DE10_LITE_Golden_Top
+Family : MAX 10
+Device : 10M50DAF484C6GES
+Timing Models : Preliminary
+Total logic elements : 2,005 / 49,760 ( 4 % )
+    Total combinational functions : 2,005 / 49,760 ( 4 % )
+    Dedicated logic registers : 204 / 49,760 ( < 1 % )
+Total registers : 204
+Total pins : 185 / 360 ( 51 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 44 / 288 ( 15 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

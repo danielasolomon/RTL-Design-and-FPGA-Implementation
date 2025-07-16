@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Wed Jul 24 13:29:46 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : AFISARE_STEAGURI
+Top-level Entity Name : DE10_LITE_Golden_Top
+Family : MAX 10
+Total logic elements : 2,004
+    Total combinational functions : 2,004
+    Dedicated logic registers : 204
+Total registers : 204
+Total pins : 185
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 44
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
